@@ -4,7 +4,7 @@ Cloud Computing:
 - The data can be anything such as files, images and documents
 
 **Cloud Architecture**
-  ![[CloudArchitectureImage.png]]
+  ![[Images/CloudArchitectureImage.png]]
 -------------------------------------------------------------------------------------------------------------
 ### **Cloud Deployment Models**
 
